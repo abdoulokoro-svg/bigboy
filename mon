@@ -1,0 +1,4 @@
+function contact() {
+    alert("Contactez-nous à :contact@monbusiness.com")
+    
+}
